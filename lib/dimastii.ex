@@ -1,0 +1,2 @@
+defmodule Dimastii do
+end
